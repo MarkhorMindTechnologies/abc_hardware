@@ -7,6 +7,13 @@
 
 ---
 
+## 🔗 Local Run Link
+
+When running the development server locally, the website is live at:  
+👉 **[http://localhost:5173/](http://localhost:5173/)**
+
+---
+
 ## 🏗️ Project Overview
 
 This website is a portfolio demonstration created by **Markhormind Technologies** to showcase modern web development capabilities for hardware and building material businesses.
@@ -68,7 +75,9 @@ npm install
 npm run dev
 ```
 
-The app will be accessible at `http://localhost:5173/`.
+### 🌐 Local Run Link
+Once started, view the website in your browser at:  
+👉 **[http://localhost:5173/](http://localhost:5173/)**
 
 ### Production Build
 
